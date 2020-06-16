@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "RM1bDjt0JEq9XfEr2DyIkWcbXiWXC8qX4OgD/pw90czhmSebhWRo/vx7H45e5lrD12oB8kvoYhvOf5BVsbsUXQ==",
+  "success": true,
+  "projectFilePath": "/home/silas/workspace/cSharp/MicroService/Application.API/Application.API.csproj",
+  "expectedPackageFiles": [
+    "/home/silas/.nuget/packages/carter/5.1.0/carter.5.1.0.nupkg.sha512",
+    "/home/silas/.nuget/packages/fluentvalidation/8.5.1/fluentvalidation.8.5.1.nupkg.sha512",
+    "/home/silas/.nuget/packages/microsoft.extensions.dependencymodel/3.1.0/microsoft.extensions.dependencymodel.3.1.0.nupkg.sha512",
+    "/home/silas/.nuget/packages/microsoft.openapi/1.1.4/microsoft.openapi.1.1.4.nupkg.sha512",
+    "/home/silas/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/silas/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "/home/silas/.nuget/packages/system.text.json/4.7.0/system.text.json.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
